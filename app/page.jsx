@@ -21,8 +21,8 @@ const Home = () => {
             <p className="max-w-[500px] mb-9 text-white/80">
               What started in 2021 as curiosity about how websites come alive
               turned into a constant pursuit of elegant simplicity in code. I've
-              since explored a broad landscape of programming languages and
-              tools, learning how to make the complex feel effortless.
+              since explored a broad landscape of technologies in web
+              development.
             </p>
             {/* btn and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
